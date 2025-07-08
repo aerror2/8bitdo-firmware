@@ -1,0 +1,17 @@
+8BitDo固件高级分析报告
+文件: firmware_downloads/USB Adapter/1.25/firmware_v1.25.dat
+大小: 64540 bytes
+熵值: 8.00
+MD5: dcb0767317d2d74df37ed66d103ba8e8
+SHA1: 3af702b747a4c94a25c8928b3708e0933faa12a2
+
+已知签名:
+  GZIP compressed: [1814, 59370]
+  DOS/Windows executable: [59532]
+
+头部分析:
+  大小 4: 熵值 0.81
+  大小 8: 熵值 1.55
+  大小 12: 熵值 1.58
+
+解密尝试结果:

@@ -1,0 +1,12 @@
+8BitDo固件分析报告
+==================================================
+
+原始文件: firmware_downloads/USB Adapter/1.25/firmware_v1.25.dat
+文件大小: 64540 bytes
+
+载荷信息:
+  大小: 64540 bytes
+  熵值: 7.75
+
+提取的文件:
+  extracted_raw.bin: 64540 bytes

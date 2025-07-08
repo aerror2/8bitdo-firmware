@@ -1,0 +1,32 @@
+8BitDo固件分析报告 (fwupd兼容模式)
+============================================================
+
+原始文件: firmware_downloads/USB Adapter/2/firmware_v2.dat
+文件大小: 90652 bytes
+
+头部信息:
+  大小: 200 bytes
+  版本: 0x0125 (293)
+  目标长度: 90452 bytes
+  目标地址: 0x08003400
+  原始数据: c8000000003400080062010000000000
+
+载荷信息:
+  大小: 90452 bytes
+  MD5: a1c3ca90315226ddbcb9a3e3dd924206
+  SHA1: 6d0af7ed48e6993a120d043e33edd22ce4d3695b
+  熵值: 7.81
+
+检测到的文件类型: GZIP, DOS/Windows EXE
+
+发现的字符串:
+  AEdy
+  rAR%
+  ETW*1
+  tF$S
+  xpX^
+  ;_xDa
+  I:&aY
+  ?l.p
+  ^XwVK
+  r6LM
